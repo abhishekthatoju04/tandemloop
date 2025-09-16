@@ -7,13 +7,20 @@
 2. Open terminal/command prompt and navigate to the folder containing the `.java` files.  
 3. Compile each program using:
    javac Problem1.java
+   
    javac Problem2.java
+   
    javac Problem3.java
+   
    javac Problem4.java
-4. Run each program using:
+   
+5. Run each program using:
    java Problem1
+   
    java Problem2
+   
    java Problem3
+   
    java Problem4
 
 
